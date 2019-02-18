@@ -1,9 +1,9 @@
 /bin
-/html/core
-/html/modules/contrib
-/html/profiles/contrib
-/html/themes/contrib
-/html/sites/default/files
-/html/libraries
+/sandbox/core
+/sandbox/modules/contrib
+/sandbox/profiles/contrib
+/sandbox/themes/contrib
+/sandbox/sites/default/files
+/sandbox/libraries
 vendor/
 .idea
